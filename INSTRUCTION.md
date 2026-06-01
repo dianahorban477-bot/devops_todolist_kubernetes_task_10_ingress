@@ -10,5 +10,5 @@ bash bootstrap.sh
 ```
 4. Use Ingress:
 ```bash
-ubectl apply -f infrastructure/ingress/ingress.yml
+kubectl apply -f infrastructure/ingress/ingress.yml
 ```
